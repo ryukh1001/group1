@@ -15,3 +15,5 @@
 
 ---
 ##### [출처]
+- 네이버 쇼핑 리뷰 : "https://github.com/bab2min/corpus"
+- 화장품 리뷰 : "https://www.oliveyoung.co.kr/"
